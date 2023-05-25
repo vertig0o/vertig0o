@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vertig0o jr developer
  - 🌱 I’m currently learning ...
- Hi, My name is Atılay  i improving myself 
- İ  share my learning repo and my projects.
+- Hi, My name is Atılay  i improving myself 
+- İ  share my learning repo and my projects.
  
  
 <!---
